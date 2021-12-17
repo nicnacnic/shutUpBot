@@ -1,2 +1,637 @@
 12/17/21 07:25:55 PM: ShutUpBot is now online!
 12/17/21 07:27:18 PM: ShutUpBot is now online!
+12/17/21 07:32:14 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:14 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:14 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:14 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:14 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:14 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:14 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:14 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:14 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:14 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:14 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:14 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:14 PM: }
+12/17/21 07:32:17 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:17 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:17 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:17 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:17 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:17 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:17 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:17 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:17 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:17 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:17 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:17 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:17 PM: }
+12/17/21 07:32:20 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:20 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:20 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:20 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:20 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:20 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:20 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:20 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:20 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:20 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:20 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:20 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:20 PM: }
+12/17/21 07:32:24 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:24 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:24 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:24 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:24 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:24 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:24 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:24 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:24 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:24 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:24 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:24 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:24 PM: }
+12/17/21 07:32:27 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:27 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:27 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:27 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:27 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:27 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:27 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:27 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:27 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:27 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:27 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:27 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:27 PM: }
+12/17/21 07:32:30 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:30 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:30 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:30 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:30 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:30 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:30 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:30 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:30 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:30 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:30 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:30 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:30 PM: }
+12/17/21 07:32:34 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:34 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:34 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:34 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:34 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:34 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:34 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:34 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:34 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:34 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:34 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:34 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:34 PM: }
+12/17/21 07:32:37 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:37 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:37 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:37 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:37 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:37 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:37 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:37 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:37 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:37 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:37 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:37 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:37 PM: }
+12/17/21 07:32:40 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:40 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:40 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:40 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:40 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:40 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:40 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:40 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:40 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:40 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:40 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:40 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:40 PM: }
+12/17/21 07:32:44 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:44 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:44 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:44 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:44 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:44 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:44 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:44 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:44 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:44 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:44 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:44 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:44 PM: }
+12/17/21 07:32:47 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:47 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:47 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:47 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:47 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:47 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:47 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:47 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:47 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:47 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:47 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:47 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:47 PM: }
+12/17/21 07:32:50 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:50 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:50 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:50 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:50 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:50 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:50 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:50 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:50 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:50 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:50 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:50 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:50 PM: }
+12/17/21 07:32:54 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:54 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:54 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:54 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:54 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:54 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:54 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:54 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:54 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:54 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:54 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:54 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:54 PM: }
+12/17/21 07:32:57 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:32:57 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:32:57 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:32:57 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:32:57 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:57 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:32:57 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:32:57 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:32:57 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:32:57 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:32:57 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:32:57 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:32:57 PM: }
+12/17/21 07:33:00 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:00 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:00 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:00 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:00 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:00 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:00 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:00 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:00 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:00 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:00 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:00 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:00 PM: }
+12/17/21 07:33:04 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:04 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:04 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:04 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:04 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:04 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:04 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:04 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:04 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:04 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:04 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:04 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:04 PM: }
+12/17/21 07:33:07 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:07 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:07 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:07 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:07 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:07 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:07 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:07 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:07 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:07 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:07 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:07 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:07 PM: }
+12/17/21 07:33:10 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:10 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:10 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:10 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:10 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:10 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:10 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:10 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:10 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:10 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:10 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:10 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:10 PM: }
+12/17/21 07:33:14 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:14 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:14 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:14 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:14 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:14 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:14 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:14 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:14 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:14 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:14 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:14 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:14 PM: }
+12/17/21 07:33:17 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:17 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:17 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:17 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:17 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:17 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:17 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:17 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:17 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:17 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:17 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:17 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:17 PM: }
+12/17/21 07:33:21 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:21 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:21 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:21 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:21 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:21 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:21 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:21 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:21 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:21 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:21 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:21 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:21 PM: }
+12/17/21 07:33:24 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:24 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:24 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:24 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:24 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:24 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:24 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:24 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:24 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:24 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:24 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:24 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:24 PM: }
+12/17/21 07:33:27 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:27 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:27 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:27 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:27 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:27 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:27 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:27 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:27 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:27 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:27 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:27 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:27 PM: }
+12/17/21 07:33:30 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:30 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:30 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:30 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:30 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:30 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:30 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:30 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:30 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:30 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:30 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:30 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:30 PM: }
+12/17/21 07:33:34 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:34 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:34 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:34 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:34 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:34 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:34 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:34 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:34 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:34 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:34 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:34 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:34 PM: }
+12/17/21 07:33:37 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:37 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:37 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:37 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:37 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:37 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:37 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:37 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:37 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:37 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:37 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:37 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:37 PM: }
+12/17/21 07:33:40 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:40 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:40 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:40 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:40 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:40 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:40 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:40 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:40 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:40 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:40 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:40 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:40 PM: }
+12/17/21 07:33:44 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:44 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:44 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:44 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:44 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:44 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:44 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:44 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:44 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:44 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:44 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:44 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:44 PM: }
+12/17/21 07:33:47 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:47 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:47 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:47 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:47 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:47 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:47 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:47 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:47 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:47 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:47 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:47 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:47 PM: }
+12/17/21 07:33:51 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:51 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:51 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:51 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:51 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:51 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:51 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:51 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:51 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:51 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:51 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:51 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:51 PM: }
+12/17/21 07:33:52 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:52 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:52 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:52 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:53 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:53 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:53 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:53 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:53 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:53 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:53 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:53 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:53 PM: }
+12/17/21 07:33:56 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:56 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:56 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:56 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:56 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:56 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:56 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:56 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:56 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:56 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:56 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:56 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:56 PM: }
+12/17/21 07:33:59 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:33:59 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:33:59 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:33:59 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:33:59 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:59 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:33:59 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:33:59 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:33:59 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:33:59 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:33:59 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:33:59 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:33:59 PM: }
+12/17/21 07:34:03 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:03 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:03 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:03 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:03 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:03 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:03 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:03 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:03 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:03 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:03 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:03 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:03 PM: }
+12/17/21 07:34:06 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:06 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:06 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:06 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:06 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:06 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:06 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:06 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:06 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:06 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:06 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:06 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:06 PM: }
+12/17/21 07:34:09 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:09 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:09 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:09 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:09 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:09 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:09 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:09 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:09 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:09 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:09 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:09 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:09 PM: }
+12/17/21 07:34:13 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:13 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:13 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:13 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:13 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:13 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:13 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:13 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:13 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:13 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:13 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:13 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:13 PM: }
+12/17/21 07:34:16 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:16 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:16 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:16 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:16 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:16 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:16 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:16 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:16 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:16 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:16 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:16 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:16 PM: }
+12/17/21 07:34:19 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:19 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:19 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:19 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:19 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:19 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:19 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:19 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:19 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:19 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:19 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:19 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:19 PM: }
+12/17/21 07:34:23 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:23 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:23 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:23 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:23 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:23 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:23 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:23 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:23 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:23 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:23 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:23 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:23 PM: }
+12/17/21 07:34:26 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:26 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:26 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:26 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:26 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:26 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:26 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:26 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:26 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:26 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:26 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:26 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:26 PM: }
+12/17/21 07:34:29 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:29 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:29 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:29 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:29 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:29 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:29 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:29 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:29 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:29 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:29 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:29 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:29 PM: }
+12/17/21 07:34:33 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:33 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:33 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:33 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:33 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:33 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:33 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:33 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:33 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:33 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:33 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:33 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:33 PM: }
+12/17/21 07:34:36 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:36 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:36 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:36 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:36 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:36 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:36 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:36 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:36 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:36 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:36 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:36 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:36 PM: }
+12/17/21 07:34:39 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:39 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:39 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:39 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:39 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:39 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:39 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:39 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:39 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:39 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:39 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:39 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:39 PM: }
+12/17/21 07:34:43 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:43 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:43 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:43 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:43 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:43 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:43 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:43 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:43 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:43 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:43 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:43 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:43 PM: }
+12/17/21 07:34:46 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:46 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:46 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:46 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:46 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:46 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:46 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:46 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:46 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:46 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:46 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:46 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:46 PM: }
+12/17/21 07:34:49 PM: Error [TOKEN_INVALID]: An invalid token was provided.
+12/17/21 07:34:49 PM:     at WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:128:26)
+12/17/21 07:34:49 PM:     at Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:21)
+12/17/21 07:34:49 PM:     at Object.<anonymous> (/home/ubuntu/files/Programs/shutUpBot/index.js:15:8)
+12/17/21 07:34:49 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:49 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)
+12/17/21 07:34:49 PM:     at Module.load (node:internal/modules/cjs/loader:975:32)
+12/17/21 07:34:49 PM:     at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+12/17/21 07:34:49 PM:     at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+12/17/21 07:34:49 PM:     at Module._compile (node:internal/modules/cjs/loader:1097:14)
+12/17/21 07:34:49 PM:     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10) {
+12/17/21 07:34:49 PM:   [Symbol(code)]: 'TOKEN_INVALID'
+12/17/21 07:34:49 PM: }
+12/17/21 07:34:53 PM: HTTPError [FetchError]: request to https://discord.com/api/v9/gateway/bot failed, reason: getaddrinfo EAI_AGAIN discord.com
+12/17/21 07:34:53 PM:     at RequestHandler.execute (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/rest/RequestHandler.js:200:15)
+12/17/21 07:34:53 PM:     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+12/17/21 07:34:53 PM:     at async RequestHandler.push (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/rest/RequestHandler.js:50:14)
+12/17/21 07:34:53 PM:     at async WebSocketManager.connect (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/websocket/WebSocketManager.js:133:9)
+12/17/21 07:34:53 PM:     at async Client.login (/home/ubuntu/files/Programs/shutUpBot/node_modules/discord.js/src/client/Client.js:245:7) {
+12/17/21 07:34:53 PM:   code: 500,
+12/17/21 07:34:53 PM:   method: 'get',
+12/17/21 07:34:53 PM:   path: '/gateway/bot',
+12/17/21 07:34:53 PM:   requestData: { json: undefined, files: [] }
+12/17/21 07:34:53 PM: }
